@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-💻 Fullstack Developer at [Calluma Tech](https://www.linkedin.com/company/calluma/), working at [Canal Dstak App](https://www.canaldstak.com.br/)
+💻 Backend Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
 
 🎓 Bachelor of Computer Science and Master student in Informatics at the Federal University of Amazonas (UFAM)
 
