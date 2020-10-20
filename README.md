@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Bachelor of Computer Science and Master student in Informatics at the Federal University of Amazonas (UFAM)
 
-📄 Checkout my [Linkedin](www.linkedin.com/in/mlpbraga) and my [Resume](https://www.notion.so/Maria-Lu-sa-Pereira-Braga-0909cb46735743c5ae7e78b38f7382c5)
+📄 Checkout my [Linkedin](https://www.linkedin.com/in/mlpbraga/) and my [Resume](https://www.notion.so/Maria-Lu-sa-Pereira-Braga-0909cb46735743c5ae7e78b38f7382c5)
 
 📧 mluisapbraga@gmail.com / mlpb@icomp.ufam.edu.br
 
