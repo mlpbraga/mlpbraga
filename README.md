@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-💻 Backend Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
+💻 Backend Developer at Saks
 
 🎓 Bachelor of Computer Science and Master student in Informatics at the Federal University of Amazonas (UFAM)
 
